@@ -265,6 +265,13 @@ input:hover {
         font-size: 35px;
         font-weight: 700;
     }
+    .s-2 {
+        background: linear-gradient(to right, rgba(0,0,0,0.403),rgba(0,0,0,0.463), url(./assest/images/Hero\ Section\ \(3\).png));
+        background-size: cover;
+        height: 100vh;
+        padding-top: 250px;
+        padding-left: 50px;
+    }
 
     .s-2 h1 {
         color: white;
@@ -371,5 +378,8 @@ input:hover {
     .section-3 h2 {
         font-size: 32px !important;
         margin-top: 17px;
+    }
+    .img-1{
+        height: 520px;
     }
 }
