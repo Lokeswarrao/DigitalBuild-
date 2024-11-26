@@ -249,7 +249,7 @@ input:hover {
 @media screen and (max-width : 767px) {
 
     * {
-        =
+        
     }
 
     .s-1 {
@@ -301,7 +301,7 @@ input:hover {
     .section-6 {
         background: #121B37;
         color: white;
-        height: 90vh;
+        height: 100vh;
 
     }
 
