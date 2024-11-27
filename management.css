@@ -30,6 +30,7 @@ img {
 nav a {
     color: darkblue !important;
 }
-.logo {
+.logo{
     height: 50px;
+    width: auto;
 }
