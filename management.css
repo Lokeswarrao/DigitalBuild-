@@ -30,3 +30,6 @@ img {
 nav a {
     color: darkblue !important;
 }
+.logo {
+    height: 50px;
+}
